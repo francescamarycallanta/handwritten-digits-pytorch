@@ -2,7 +2,7 @@
 
 Handwritten digit recognizer using **PyTorch**.  
 Includes a simple MLP baseline and an optional CNN upgrade.  
-Runs locally or in **Google Colab** (Colab badge below).
+Runs locally or in **Google Colab**.
 
 ---
 
